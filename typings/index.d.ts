@@ -1,4 +1,4 @@
-declare module "@discord-player/downloader" {
+declare module "@nicholai/discord-player-downloader" {
     import { Readable } from "stream"
 
     const version: string
